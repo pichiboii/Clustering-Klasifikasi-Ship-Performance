@@ -1,5 +1,5 @@
 # 🚢 Clustering dan Klasifikasi: Ship Performance Dataset
-Project Membangun Proyek Machine Learning *Coding Camp 2025 by DBS Foundation* oleh Hafizha Aghnia Hasya
+Project Membangun Proyek Machine Learning *Coding Camp 2025 by DBS Foundation* oleh Hafizha Aghnia Hasya <br>
 Repositori ini berisi proyek analisis data dan machine learning yang bertujuan untuk mengeksplorasi dan memodelkan performa kapal menggunakan teknik clustering (unsupervised learning) dan klasifikasi (supervised learning).
 
 ## 📊 Alur Proyek
